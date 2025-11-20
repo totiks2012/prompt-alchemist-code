@@ -111,11 +111,14 @@ Turns vague ideas into perfect AI specifications in 5 minutes
 
 ## 📦 Установка
 
+[Live Demo](https://totiks2012.github.io/prompt-alchemist-code/tree/main/index.html)
+
 ```bash
 git clone https://github.com/totiks2012/prompt-alchemist-code.git
 cd prompt-alchemist-code
 # Откройте index.html в браузере
 ```
+или просто скачайте raw файл с https://github.com/totiks2012/prompt-alchemist-code/tree/main и запустите index.html и запустите в любом браузере
 
 ---
 
