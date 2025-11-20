@@ -111,7 +111,7 @@ Turns vague ideas into perfect AI specifications in 5 minutes
 
 ## 📦 Установка
 
-[Live Demo](https://github.com/totiks2012/prompt-alchemist-code/tree/main/index.html)
+
 
 ```bash
 git clone https://github.com/totiks2012/prompt-alchemist-code.git
